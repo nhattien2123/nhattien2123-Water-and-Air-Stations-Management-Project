@@ -117,6 +117,7 @@ namespace BTL_MQTT
         }
     }
 }
+20
 
 //var timestampNow = new DateTimeOffset(DateTime.UtcNow).ToUnixTimeSeconds();  MqttMsgBase.QOS_LEVEL_EXACTLY_ONCE
 //JavaScriptSerializer json_serializer = new JavaScriptSerializer();
