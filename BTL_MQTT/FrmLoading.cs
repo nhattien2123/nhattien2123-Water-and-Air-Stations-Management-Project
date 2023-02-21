@@ -115,6 +115,12 @@ namespace BTL_MQTT
             client.Disconnect();
             base.OnClosed(e);
         }
+
+        public void Test()
+        { 
+            //hehehhee
+            //test
+        }
     }
 }
 
